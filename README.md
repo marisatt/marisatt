@@ -1,5 +1,12 @@
-### Hi there 👋
+👋 ¡Hola! Soy Marisa, estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM), apasionada por el mundo de la tecnología y el desarrollo de software.
 
+🎓 Actualmente estoy cursando mis estudios, donde voy adquiriendo habilidades sólidas en programación, diseño de aplicaciones, bases de datos y desarrollo web. Busco aprender nuevas tecnologías y técnicas para mejorar mis habilidades y ampliar mi conocimiento en el campo del desarrollo de software.
+
+💻 En mi perfil de GitHub, encontrarás los proyectos que he desarrollado como parte de mi aprendizaje y exploración en el campo del desarrollo de aplicaciones multiplataforma.
+
+🚀 Considero que el aprendizaje continuo es fundamental, y estoy comprometida a crecer tanto a nivel individual como en comunidad, con el fin de intercambiar ideas y trabajar en proyectos innovadores.
+
+¡Gracias por visitar mi perfil!
 <!--
 **marisatt/marisatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
