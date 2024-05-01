@@ -1,3 +1,4 @@
+![Imagen portada](https://github.com/marisatt/marisatt/blob/main/ImagenPortada.png)
 👋 ¡Hola! Soy Marisa, estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM), apasionada por el mundo de la tecnología y el desarrollo de software.
 
 🎓 Actualmente estoy cursando mis estudios, donde voy adquiriendo habilidades sólidas en programación, diseño de aplicaciones, bases de datos y desarrollo web. Busco aprender nuevas tecnologías y técnicas para mejorar mis habilidades y ampliar mi conocimiento en el campo del desarrollo de software.
