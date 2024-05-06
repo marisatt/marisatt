@@ -28,6 +28,8 @@
 |9. Publicar el Proceso en la Página Principal | Demostrar habilidades en la creación y edición de contenido en la página principal de GitHub, utilizando etiquetas de Markdown y al menos una imagen. |
 
 Haz click en [este enlace](https://github.com/marisatt/retogit) para conocer más detalles sobre mi proyecto
+
+
 ![Imagen](https://github.com/marisatt/marisatt/blob/main/git-and-github.png)
 
 <!--
